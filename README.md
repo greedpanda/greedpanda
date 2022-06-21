@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/greedpanda/greedpanda/master/wave.gif" width="30px"> I'm Paolo</h1>
+<h1 align="center">Hi, I'm Paolo</h1>
 <h3 align="center">A NetSec guy from 🇮🇹 Italy that studies in 🇸🇪 Sweden</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=greedpanda&label=Profile%20views&color=00e171&style=flat" alt="greedpanda" /> </p>
