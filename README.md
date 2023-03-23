@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Paolo</h1>
-<h3 align="center">A NetSec guy from 🇮🇹 Italy that studies in 🇸🇪 Sweden</h3>
+<h3 align="center">A InfoSec guy from 🇮🇹 Italy that studies in 🇸🇪 Sweden</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=greedpanda&label=Profile%20views&color=00e171&style=flat" alt="greedpanda" /> </p>
 
