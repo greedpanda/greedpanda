@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=greedpanda&label=Profile%20views&color=00e171&style=flat" alt="greedpanda" /> </p>
 
-<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/graduation-cap_1f393.png" width="40px"> I’m currently learning **network security, penetration testing, digital forensics and incident management.**
+I’m currently learning **network security, penetration testing, digital forensics and incident management.**
 
 <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/man-technologist_1f468-200d-1f4bb.png" width="40px"> I’m currently working as **teaching assistant** at  [<img src="https://raw.githubusercontent.com/greedpanda/greedpanda/master/lnu-logo.jpg" width="20px"> Linnaeus University](https://lnu.se)
 
